@@ -530,7 +530,7 @@ msgid "This Week"
 msgstr "Αυτή την εβδομαδα"
 
 msgid "Time format"
-msgstr "Μορφή Χρονου"
+msgstr "Μορφή Χρόνου"
 
 msgid "Time spent"
 msgstr "Χρόνος που καταναλώθηκε"
@@ -821,5 +821,5 @@ msgstr "ήταν"
 msgid "year"
 msgid_plural "years"
 msgstr[0] "χρόνο"
-msgstr[1] "χρονία"
+msgstr[1] "χρόνια"
 
