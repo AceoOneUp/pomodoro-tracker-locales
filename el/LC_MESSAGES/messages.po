@@ -664,7 +664,7 @@ msgid "focus"
 msgstr "Συγκεντρώση"
 
 msgid "for all time"
-msgstr "Για όλη την ώρα"
+msgstr "Για όλη την χρόνο"
 
 msgid "friends"
 msgstr "Φίλοι"
