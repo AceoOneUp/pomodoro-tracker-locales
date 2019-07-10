@@ -309,7 +309,7 @@ msgid "Of those"
 msgstr "Από Αυτά"
 
 msgid "Once a Pomodoro begins, it has to ring"
-msgstr "Οταν η Πομοντόρο ξεκίνα, πρεπει να κουδουνίζει"
+msgstr "Οταν η Πομοντόρο ξεκίνα, πρέπει να κουδουνίζει"
 
 msgid "One minute left"
 msgstr "Απέμεινε ενα λέπτο"
