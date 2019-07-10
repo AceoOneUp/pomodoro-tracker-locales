@@ -264,7 +264,7 @@ msgid "Loading"
 msgstr "Φόρτωμα"
 
 msgid "Login to the service and track your progress"
-msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την προοδο σου"
+msgstr "Συνδέσου στην υπηρεσία και κατέγραψε την πρόοδο σου"
 
 msgid "Login to the service using Facebook authentication."
 msgstr "Συνδέσου στην υπηρεσία χρησιμοποιώντας αυθεντικοποίηση απο το Facebook"
